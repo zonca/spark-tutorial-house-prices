@@ -10,3 +10,9 @@ Based on a sample house prices dataset
 * Spark RDD, Transformation, Actions
 * Spark Direct Acyclic Graph scheduler
 * Spark Dataframes
+
+## Instructor
+
+Andrea Zonca
+San Diego Supercomputer Center
+<http://twitter.com/andreazonca>
